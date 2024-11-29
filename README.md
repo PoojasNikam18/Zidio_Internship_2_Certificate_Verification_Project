@@ -54,11 +54,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 To all the contributors and supporters of this project, we want to express our sincerest thanks. Your time, effort, and expertise have been invaluable in making this project a success. Whether you contributed code, documentation, testing, or simply offered feedback and suggestions, your contributions are deeply appreciated.
 
 
-  <img src="https://contrib.rocks/image?repo=vishnuhari17/Certificate_verify" />
-</a>
-
-
-## 🛡️ License
-
-Certificate Verify is licensed under the [MIT License ](https://github.com/vishnuhari17/Certificate_verify/blob/main/LICENSE)
+  
 
